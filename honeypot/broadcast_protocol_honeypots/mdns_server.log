@@ -1,0 +1,42 @@
+2023-04-09 19:07:26 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='sonos.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:07:35 193.147.104.24 -> [09/Apr/2023 19:07:35] -> "GET /ssdp.xml HTTP/1.1" 200 -
+
+2023-04-09 19:07:47 193.147.104.24 -> [09/Apr/2023 19:07:47] -> code 404, message File not found
+
+2023-04-09 19:07:47 193.147.104.24 -> [09/Apr/2023 19:07:47] -> "GET /sdgsdgssdp.xml HTTP/1.1" 404 -
+
+2023-04-09 19:08:34 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='sonos.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:09:23 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='apple.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:09:49 193.147.104.24 -> [09/Apr/2023 19:09:49] -> code 404, message File not found
+
+2023-04-09 19:09:49 193.147.104.24 -> [09/Apr/2023 19:09:49] -> "GET /sdgsdgssdp.xml HTTP/1.1" 404 -
+
+2023-04-09 19:10:50 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='apple.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:10:56 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='sonos.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:12:59 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='sonos.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:13:08 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='google.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:13:10 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='google.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:13:18 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='epson.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:13:26 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='epson.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:13:30 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='epson.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:13:43 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='epson.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:13:45 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='epson.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:15:32 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='amazon.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:15:36 193.147.104.24 -> [09/Apr/2023 19:15:36] -> code 404, message File not found
+
+2023-04-09 19:15:36 193.147.104.24 -> [09/Apr/2023 19:15:36] -> "GET /sdgsdgssdp.xml HTTP/1.1" 404 -
+
+2023-04-09 19:15:38 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='amazon.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:20:29 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='sonos.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:21:35 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='sonos.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:21:40 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='webpage.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:24:02 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='webpage.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:24:11 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='google.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:24:36 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='google.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:25:09 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='google.local.', properties={'path': '/'}, interface_index=None)
+2023-04-09 19:25:09  :  -> [Sun, 09 Apr 2023 17:25:09 GMT] ->  mDNS server queried by ('193.147.104.24', 40353) 
+2023-04-09 19:26:12 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='google.local.', properties={'path': '/'}, interface_index=None)
+2023-05-04 13:23:10 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='pokemon.local.', properties={'path': '/'}, interface_index=None)
+2023-05-04 13:23:17 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='pokemon.local.', properties={'path': '/'}, interface_index=None)
+2023-05-04 13:27:45 mDNS: Service registered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='microsoft.local.', properties={'path': '/'}, interface_index=None)
+2023-05-04 13:28:09 Service unregistered: ServiceInfo(type='_http._tcp.local.', name='_http._tcp.local.', addresses=[b'\xc1\x93h\x18'], port=8008, weight=0, priority=0, server='microsoft.local.', properties={'path': '/'}, interface_index=None)

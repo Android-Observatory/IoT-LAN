@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+	<specVersion>
+		<major>1</major>
+		<minor>0</minor>
+	</specVersion>
+	<URLBase>http://microsoft.local:8008</URLBase>
+	<device>
+		<presentationURL>http://microsoft.local:8008/login/login.html</presentationURL>
+		<deviceType>urn:schemas-upnp-org:device:Basic:1</deviceType>
+		<friendlyName>Zeus</friendlyName>
+		<modelDescription>Connect to access</modelDescription>
+		<manufacturer>Epson</manufacturer>
+		<modelName>HP 7830</modelName>
+		<UDN>15a091ef-5ccf-456e-b3bc-00347e755ea2</UDN>
+		<serviceList>
+			<service>
+				<serviceType>urn:schemas-upnp-org:device:Basic:1</serviceType>
+				<serviceId>urn:schemas-upnp-org:device:Basic</serviceId>
+				<controlURL>/ssdp/notfound</controlURL>
+				<eventSubURL>/ssdp/notfound</eventSubURL>
+				<SCPDURL>/ssdp/notfound</SCPDURL>
+			</service>
+		</serviceList>
+	</device>
+</root>
