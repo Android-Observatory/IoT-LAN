@@ -16,3 +16,7 @@ Each subdirectory shows samples for processing pcap files for destination, encry
 - `honeypot/` - Code for the honeypots used.
 - `traffic-analysis/` - Code for IoT local traffic analysis and classification
 - `app-analysis/` - Dataset and analysis code for mobile app traffic and behaviour analysis. 
+
+### IoT Inspector data 
+
+Researchers interested in the IoT Inspector data can contact us through the email listed on the project website (https://iotinspector.org/). We will then seek approval from New York University’s IRB first and then contact the researchers for their own IRB approval (if needed). IRB approval is needed because the data may potentially include sensitive user contents.
